@@ -4,6 +4,9 @@ Eu sou o Kevin Logan 🖔
 
 ![Logan GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinLGomes&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 ## Tecnologias que utilizo no dia a dia:
 
 <div style="display: inline_block" ><br/>
